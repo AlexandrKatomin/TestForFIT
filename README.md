@@ -1,1 +1,1 @@
-![alt tag](https://github.com/AlexandrKatomin/TestForFIT/img.png)
+![alt text](https://github.com/AlexandrKatomin/TestForFIT/img.png)
